@@ -1,0 +1,6 @@
+{
+  "name": "Blockchain Welfare Scheme Tracker",
+  "description": "A clean, functional Blockchain-Based Welfare Scheme Distribution Tracking System with SHA-256 hashing, ledger explorer, search audit, and tamper detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
